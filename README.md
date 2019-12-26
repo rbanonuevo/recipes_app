@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/krolmic/recipes_app) 
+
 # recipes_app
 
 Simple Recipes App made in Flutter for a series of articles. You can find all articles [here](https://medium.com/@michael.krol).
